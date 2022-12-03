@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "one": "node 1/index.js",
-    "two": "node 2/index.js"
+    "two": "node 2/index.js",
+    "three": "node 3/index.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Drillman/advent-of-code-22/issues"
   },
-  "homepage": "https://github.com/Drillman/advent-of-code-22#readme"
+  "homepage": "https://github.com/Drillman/advent-of-code-22#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
