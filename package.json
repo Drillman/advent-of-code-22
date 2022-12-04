@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "one": "node 1/index.js",
     "two": "node 2/index.js",
-    "three": "node 3/index.js"
+    "three": "node 3/index.js",
+    "four": "node 4/index.js"
   },
   "repository": {
     "type": "git",
