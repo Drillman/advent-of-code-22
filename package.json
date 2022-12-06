@@ -9,7 +9,8 @@
     "two": "node 2/index.js",
     "three": "node 3/index.js",
     "four": "node 4/index.js",
-    "five": "node 5/index.js"
+    "five": "node 5/index.js",
+    "six": "node 6/index.js"
   },
   "repository": {
     "type": "git",
